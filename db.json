@@ -1,5 +1,79 @@
 {
-  "Movimiento" : "Movimiento detectado\"",
-  "svads" : "sfdafsdfs",
-  "vvd" : "ddd"
-}
+  "ESP82-DHT" : {
+    "Humidity:" : 64,
+    "Temperature °C" : 28.1,
+    "Temperature °F" : 70.9800003
+  },
+  "SERVER-ESP8266" : {
+    "Movimiento" : "Movimiento detectado\"",
+    "svads" : "sfdafsdfs",
+    "vvd" : "ddd"
+  },
+  "oxigeno" : {
+    "registros" : {
+      "-MXhkA4PZUrUhGrrSqQV" : {
+        "fechaReg" : "2021-04-07T14:12:52.339-05:00",
+        "frCardiaca" : "54",
+        "id" : "-MXhkA4PZUrUhGrrSqQV",
+        "prcOxigeno" : "23"
+      },
+      "-MXnVOniB24CEaZs46CA" : {
+        "fechaReg" : "2021-04-08T17:00:34.231-05:00",
+        "frCardiaca" : "23",
+        "id" : "-MXnVOniB24CEaZs46CA",
+        "prcOxigeno" : "45"
+      }
+    }
+  },
+  "prueba" : {
+    "mensaje" : "prueba BD"
+  },
+  "temperatura" : {
+    "registros" : {
+      "02-03-2021" : 32,
+      "03-03-2021" : 30,
+      "04-03-2021" : 36,
+      "05-03-2021" : 30,
+      "06-03-2021" : 27,
+      "07-03-2021" : 32,
+      "08-03-2021" : 35,
+      "09-03-2021" : 30,
+      "10-03-2021" : 33,
+      "11-03-2021" : 35,
+      "12-03-2021" : 37,
+      "13-03-2021" : 34,
+      "14-03-2021" : 36,
+      "15-03-2021" : 38
+    }
+  },
+  "user" : {
+    "AdJOc9VpqCOMRQpHsgQfqKQPvJ63" : {
+      "confirm" : "987654",
+      "mail" : "ark@gmail.com",
+      "name" : "arkantos",
+      "password" : "987654"
+    },
+    "SZru8n9qaAXAiUiitpey7xPo8c43" : {
+      "confirm" : "xero123",
+      "mail" : "mario@gmail.com",
+      "name" : "Mario Hdez",
+      "password" : "xero123"
+    },
+    "WdJ7qSF1IeTQHMYDkGhKdkFYKA92" : {
+      "confirm" : "654321",
+      "mail" : "chale@gmai.com",
+      "name" : "Chale",
+      "password" : "654321"
+    },
+    "eDMlk2d9ggZKje4P2lhH8gm8mPd2" : {
+      "confirm" : "123456",
+      "mail" : "lau@gmail.com",
+      "name" : "laura",
+      "password" : "123456"
+    },
+    "jGSgmfqbNfPUBSWAPsCFTBnZfRu2" : {
+      "confirm" : "123456",
+      "mail" : "guajar@gmail.com",
+      "name" : "Ayari Rebollar",
+      "password" : "123456"
+    }
