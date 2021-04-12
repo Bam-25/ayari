@@ -1,5 +1,5 @@
 {
-  "registros" : {
+  "registros" : [{
     "1" : {
       "id" : 1,
       "registro" : "04-03-2021",
@@ -10,5 +10,5 @@
       "registro" : "03-05-2021",
       "valor" : "25"
     }
-  }
+  }]
 }
