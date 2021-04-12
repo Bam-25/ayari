@@ -2,13 +2,53 @@
   "registros" : [{
      
       "id" : 1,
-      "registro" : "04-03-2021",
+      "registro" : "03-03-2021",
       "valor" : 85
     },
     {
-      "id" : "-MY1ht1jeawCh-ndNvBa",
-      "registro" : "03-05-2021",
-      "valor" : "25"
+      "id" : "2",
+      "registro" : "04-03-2021",
+      "valor" : "90"
+    },
+    {
+      "id" : "3",
+      "registro" : "05-03-2021",
+      "valor" : "95"
+    },
+    {
+      "id" : "4",
+      "registro" : "06-03-2021",
+      "valor" : "88"
+    },
+    {
+      "id" : "5",
+      "registro" : "07-03-2021",
+      "valor" : "99"
+    },
+    {
+      "id" : "6",
+      "registro" : "08-03-2021",
+      "valor" : "80"
+    },
+    {
+      "id" : "7",
+      "registro" : "09-03-2021",
+      "valor" : "96"
+    },
+    {
+      "id" : "8",
+      "registro" : "10-03-2021",
+      "valor" : "87"
+    },
+    {
+      "id" : "9",
+      "registro" : "11-03-2021",
+      "valor" : "91"
+    },
+    {
+      "id" : "10",
+      "registro" : "12-03-2021",
+      "valor" : "99"
     }
   ]
 }
