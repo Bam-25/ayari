@@ -1,11 +1,11 @@
 {
   "registros" : [{
-    "1" : {
+     {
       "id" : 1,
       "registro" : "04-03-2021",
       "valor" : 85
     },
-    "-MY1ht1jeawCh-ndNvBa" : {
+    {
       "id" : "-MY1ht1jeawCh-ndNvBa",
       "registro" : "03-05-2021",
       "valor" : "25"
